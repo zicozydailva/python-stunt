@@ -7,5 +7,5 @@ print(lower_name)
 capitalize = "zeeekkeee".capitalize() # capitalize() method converts the string to capitalize format
 print(capitalize)
 
-countString = "zeeekkeee".count('e') # coun the passed substring length of the string
+countString = "zeeekkeee".lower().count('e') # coun the passed substring length of the string
 print(countString)
