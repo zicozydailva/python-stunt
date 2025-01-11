@@ -11,3 +11,5 @@ z = "Hello World"
 
 # BOOLEAN
 a = True
+
+print(x, y, z, a)
