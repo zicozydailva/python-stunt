@@ -23,3 +23,10 @@ for i in range(len(x)):
     # ALTERNATIVELY
 for i, element in enumerate(x):
     print(x, element)
+    
+    
+# WHILE LOOP
+i=0
+while i < 10:
+    print('run')
+    i+=1
