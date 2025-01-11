@@ -9,3 +9,8 @@ print(sliced)
 # To reverse a list
 reverseList = x[::-1]
 print(reverseList)
+
+
+# To reverse a string
+reverseString = s[::-1]
+print(reverseString)
