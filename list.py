@@ -11,7 +11,7 @@ print(len(x)) # 4
 # Adding elements to a list
 x.append("world") # [4, True, 'hello', 5.5, 'world']
 print(x)
-
+ 
 # Removing elements from a list
 x.remove(4) # [True, 'hello', 5.5, 'world']
 
